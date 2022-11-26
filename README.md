@@ -60,6 +60,8 @@ Q: Should I put my projects online?
 > [Roadmap.sh](https://roadmap.sh/roadmaps)
 >
 > [100 Days of Code](https://www.linkedin.com/pulse/100-days-code-complete-roadmap-beginners-arif-alam-arif-alam-/)
+>
+> [Game Development](https://www.codelivly.com/game-development-roadmap-2022/)
 
 ### Courses:
 > [Tutlane](https://www.tutlane.com/tutorials)
@@ -73,6 +75,10 @@ Q: Should I put my projects online?
 > [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 >
 > [Kaggle](https://www.kaggle.com/learn)
+>
+> [Cybersecurity](https://www.simplilearn.com/tutorials/cyber-security-tutorial)
+>
+> [MOOC](https://www.mooc.fi/en/)
 
 ### Books:
 > [According to Subject](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
