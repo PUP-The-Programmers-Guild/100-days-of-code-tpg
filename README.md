@@ -44,7 +44,7 @@
     >
     > ## Goals: 
     >
-    > **Today's Goal:** State the short-term goals you would like to achive in the present.
+    > **Today's Goal:** State the short-term goals you would like to achieve in the present.
     >
     > **Future Goals:** Lay down your long-term goals in your project or in the field of Tech.
     >
@@ -59,8 +59,6 @@
     > ## Day 1: December 1, 2022
     > - I learned HTML
     > - I finished putting anchor links in my website
-    >
-    > **Thoughts:** Provide your thoughts, what you learned, and if you encounter any issues. 
     >
     > **Blockers:** List down all the obstacles you are currently encountering that prevents you from achieving your goal (e.g., I can't understand pointers in C language).
     > 
