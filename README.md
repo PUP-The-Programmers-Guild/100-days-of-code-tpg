@@ -12,7 +12,7 @@
 ---
 **What:** 100 Days of Code Challenge
 
-**Why:** Create a healthy habit of coding at least an hour a day. Through this challenge, you can learn programming and create projects alongside other devskolars. 
+**Why:** Create a healthy habit of coding at least an hour a day. Through this challenge, you can learn programming and create projects alongside other Devskolars. 
 
 **Who:** TPG Devskolars. You can do this solo, with a partner, or with a group of people. 
 
@@ -59,11 +59,8 @@
     > ## Day 1: December 1, 2022
     > - I learned HTML
     > - I finished putting anchor links in my website
-<<<<<<< HEAD
-=======
     >
     > **Thoughts:** Provide your thoughts, what you learned, and if you encounter any issues. 
->>>>>>> 2a87b227f2d5e7d2de83953ee5c7b92fafde48e6
     >
     > **Blockers:** List down all the obstacles you are currently encountering that prevents you from achieving your goal (e.g., I can't understand pointers in C language).
     > 
@@ -91,7 +88,9 @@ Q: Should I put my projects online?
 ---
 ### Roadmaps:
 > [Roadmap.sh](https://roadmap.sh/roadmaps)
->
+>- **Role Based:** Frontend, Backend, DevOps, Android, PostgreSQL Database Administrator, Blockchain, QA Engineer, Software Architect,  ASP.NET Core, and Flutter.
+>- **Skill Based:** Computer Science, React, Angular, Vue, JavaScript, Node.js, Python, Go, Java, Design System, and Software Design and Architecture.
+
 > [100 Days of Code](https://www.linkedin.com/pulse/100-days-code-complete-roadmap-beginners-arif-alam-arif-alam-/)
 >
 > [Game Development](https://www.codelivly.com/game-development-roadmap-2022/)
@@ -165,3 +164,100 @@ Q: Should I put my projects online?
 > [Karan](https://github.com/karan/Projects)
 >
 > [Data Quest](https://www.dataquest.io/blog/python-projects-for-beginners/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
