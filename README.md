@@ -60,6 +60,8 @@
     > - I learned HTML
     > - I finished putting anchor links in my website
     >
+    > **Thoughts:** Provide your thoughts, what you learned, and if you encounter any issues. 
+    >
     > **Blockers:** List down all the obstacles you are currently encountering that prevents you from achieving your goal (e.g., I can't understand pointers in C language).
     > 
     > **Links/Picture:** Include a picture or screenshot or a link to what you did. 
@@ -114,6 +116,8 @@ Q: Should I put my projects online?
 > [According to Subject](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
 >
 > [According to Programming Language](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md)
+>
+> [GDrive](https://drive.google.com/drive/folders/1Kuxt1tMQzAm_eToyYstIMVizAm8s7qyb?usp=sharing)
 
 ### Cheatsheets:
 > [Cheatsheets](https://github.com/EbookFoundation/free-programming-books/blob/main/more/free-programming-cheatsheets.md)
@@ -137,9 +141,30 @@ Q: Should I put my projects online?
 > [Webdev Simplified](https://www.youtube.com/c/WebDevSimplified)
 >
 > [Derek Banas](https://www.youtube.com/c/derekbanas)
+>
+>Competitive Programmer YouTuber
+>
+>[Errichto](https://www.youtube.com/@Errichto)
+>
+>[galen_colin](https://www.youtube.com/c/ColinGalen])
 
 ### Competitive Programming:
 > [Problem Sets](https://github.com/EbookFoundation/free-programming-books/blob/main/more/problem-sets-competitive-programming.md#competitive-programming)
+> 
+> [Algorithms for Competitive Programming](https://cp-algorithms.com/)
+>
+>[Competitive Programmer’s Handbook (CPH)](https://usaco.guide/CPH.pdf)
+>
+>Competitive Programming Platforms
+>https://codeforces.com/
+>
+>https://atcoder.jp/
+>
+>https://www.codechef.com/
+>
+>https://www.hackerrank.com/
+>
+>https://leetcode.com/ 
 
 ## Suggested Projects
 ---
